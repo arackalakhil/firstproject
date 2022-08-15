@@ -9,9 +9,8 @@ colorama==0.4.5
 cryptography==37.0.4
 defusedxml==0.7.1
 dj-database-url==1.0.0
-Django==4.1
+Django==3.2.14
 django-allauth==0.51.0
-django-collectstatic-bower==0.1.2
 django-heroku==0.3.1
 django-mathfilters==1.0.0
 django-phonenumber-field==6.3.0
@@ -24,7 +23,6 @@ google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.5.2
 googleapis-common-protos==1.56.4
 gunicorn==20.1.0
-heroku==0.1.4
 httplib2==0.20.4
 idna==3.3
 mccabe==0.7.0
@@ -41,9 +39,8 @@ pyasn1-modules==0.2.8
 pycodestyle==2.9.1
 pycparser==2.21
 pyflakes==2.5.0
-PyJWT==2.4.0
+PyJWT==1.7.1
 pyparsing==3.0.9
-python-dateutil==1.5
 python-decouple==3.6
 python3-openid==3.2.0
 pytz==2022.1
@@ -55,7 +52,7 @@ rsa==4.9
 six==1.16.0
 sqlparse==0.4.2
 tomli==2.0.1
-twilio==7.12.1
+twilio==6.63.2
 tzdata==2022.2
 uritemplate==4.1.1
 urllib3==1.26.9
